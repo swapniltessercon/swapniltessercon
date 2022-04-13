@@ -1,0 +1,9 @@
+[submodule "Source/TesserconCore"]
+	path = Source/TesserconCore
+	url = https://github.com/Tessercon/TesserconCore.git
+[submodule "Source/SQLite_ORM"]
+	path = Source/SQLite_ORM
+	url = https://github.com/Tessercon/SQLite_ORM.git
+[submodule "Source/MatrixCore"]
+	path = Source/MatrixCore
+	url = https://github.com/Tessercon/MatrixCore.git
